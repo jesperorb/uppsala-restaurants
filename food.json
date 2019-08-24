@@ -1,0 +1,31 @@
+{
+  "food": [
+    {
+      "name": "The Loco",
+      "lunchMenu": "https://restaurangloco.se/lunch/",
+      "dinnerMenu": "https://restaurangloco.se/meny/",
+      "adress": "The Loco, Smedsgränd 11, 753 20 Uppsala",
+      "latitude": 59.8585333,
+      "longitude": 17.6411631,
+      "lunchOpeningHour": 11
+    },
+    {
+      "name": "Stationen",
+      "lunchMenu": "https://stationen.se/menyer",
+      "dinnerMenu": "https://stationen.se/menyer",
+      "adress": "Olof Palmes plats 6, 753 21 Uppsala",
+      "latitude": 59.858733,
+      "longitude": 17.646031,
+      "lunchOpeningHour": 10
+    },
+    {
+      "name": "Legumè",
+      "lunchMenu": "https://www.legume.se/lunchbuffe/",
+      "dinnerMenu": "https://www.legume.se/kvallsmeny/",
+      "adress": "Drottninggatan 12, 753 10 Uppsala",
+      "latitude": 59.8566341,
+      "longitude": 17.6351381,
+      "lunchOpeningHour": 11
+    }
+  ]
+}
